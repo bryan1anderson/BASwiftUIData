@@ -1,0 +1,160 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "2777659076fda38bd4e487739ee331c7a65b5924",
+          "version": "5.2.1"
+        }
+      },
+      {
+        "package": "EMUtilities",
+        "repositoryURL": "https://github.com/bryan1anderson/BAUtilities",
+        "state": {
+          "branch": "master",
+          "revision": "f31588eea070877b3e725d4975f93b5615ceacf3",
+          "version": null
+        }
+      },
+      {
+        "package": "Closures",
+        "repositoryURL": "https://github.com/vhesener/Closures",
+        "state": {
+          "branch": "master",
+          "revision": "d42d1cea00b05fa6778e2a0e1601028b47a32f79",
+          "version": null
+        }
+      },
+      {
+        "package": "DateToolsSwift",
+        "repositoryURL": "https://github.com/maniramezan/DateTools",
+        "state": {
+          "branch": "mani_swiftpm",
+          "revision": "4df71163e824b75476edd853a57dd4e33e0e618b",
+          "version": null
+        }
+      },
+      {
+        "package": "Differ",
+        "repositoryURL": "https://github.com/tonyarnold/Differ",
+        "state": {
+          "branch": "master",
+          "revision": "3489e6319e2198ec5c697060955ffffacefe2633",
+          "version": null
+        }
+      },
+      {
+        "package": "FetchImage",
+        "repositoryURL": "https://github.com/kean/FetchImage",
+        "state": {
+          "branch": null,
+          "revision": "b9ea4f9f97a4bc9fde452cea277d25d0a4f8f6df",
+          "version": "0.2.1"
+        }
+      },
+      {
+        "package": "Files",
+        "repositoryURL": "https://github.com/JohnSundell/Files",
+        "state": {
+          "branch": null,
+          "revision": "92b57bea0e737e7d92b5ff281f46ec2b59faf91c",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "Marshal",
+        "repositoryURL": "https://github.com/utahiosmac/Marshal",
+        "state": {
+          "branch": null,
+          "revision": "bbd811be9b78352e74970d1c2c652e87c83ce51b",
+          "version": "1.2.8"
+        }
+      },
+      {
+        "package": "Nuke",
+        "repositoryURL": "https://github.com/kean/Nuke",
+        "state": {
+          "branch": null,
+          "revision": "998588c80611e4fe9b71dd4323fa938ee62f4ff7",
+          "version": "9.1.1"
+        }
+      },
+      {
+        "package": "PhoneNumberKit",
+        "repositoryURL": "https://github.com/marmelroy/PhoneNumberKit",
+        "state": {
+          "branch": null,
+          "revision": "5c8c906036dd44d0ac6d721c5fd0bf5602d1ff0e",
+          "version": "3.2.0"
+        }
+      },
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit",
+        "state": {
+          "branch": "v7",
+          "revision": "9f494dd1c312b1325d709853255558585c070c46",
+          "version": null
+        }
+      },
+      {
+        "package": "Reachability",
+        "repositoryURL": "https://github.com/ashleymills/Reachability.swift",
+        "state": {
+          "branch": null,
+          "revision": "98e968e7b6c1318fb61df23e347bc319761e8acb",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa",
+        "state": {
+          "branch": null,
+          "revision": "fa43b8e2909334c79f233ce472332c136ca108da",
+          "version": "4.4.1"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "35662ff940e340bf630ad1d1d88acfc7af18bee6",
+          "version": "5.23.8"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "ViewAnimator",
+        "repositoryURL": "https://github.com/marcosgriselli/ViewAnimator",
+        "state": {
+          "branch": null,
+          "revision": "17e7ba9e9c9e09bfd46086e0189b198fedc67847",
+          "version": "2.7.0"
+        }
+      },
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/marmelroy/Zip",
+        "state": {
+          "branch": "master",
+          "revision": "80b1c3005ee25b4c7ce46c4029ac3347e8d5e37e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
